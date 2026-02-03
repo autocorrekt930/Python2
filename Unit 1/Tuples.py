@@ -1,6 +1,4 @@
-# Python program to perform various operations on tuples
-
-    # 1. Create and access tuple elements
+# 1. Create and access tuple elements
 print("1. Creating and accessing tuple elements:")
 my_tuple = (10, 20, 30, 40, 50)
 print(f"Original tuple: {my_tuple}")
@@ -30,3 +28,4 @@ concatenated_tuple = tuple1 + tuple2
 print(f"Tuple1: {tuple1}")
 print(f"Tuple2: {tuple2}")
 print(f"Concatenated: {concatenated_tuple}")
+
