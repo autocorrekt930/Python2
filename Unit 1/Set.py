@@ -1,7 +1,4 @@
-# Python program to perform various operations on sets
-
-
-    # 1. Create and access set elements
+# 1. Create and access set elements
 
 print("1. Creating and accessing set elements:")
 my_set = {10, 20, 30, 40, 50}
@@ -35,4 +32,5 @@ print("4. Difference of sets:")
 diff_set1 = set1.difference(set2)
 diff_set2 = set2.difference(set1)
 print(f"Set1 - Set2: {diff_set1}")
+
 print(f"Set2 - Set1: {diff_set2}")
