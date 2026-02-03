@@ -1,5 +1,3 @@
-# Dictionary Operations in Python
-
 # 1. Create and access dictionary elements
 print("1. Create and access dictionary elements:")
 student = {
@@ -36,4 +34,5 @@ additional_info = {
 }
 student.update(additional_info)
 print("Merged dictionary:", student)
+
 print()
