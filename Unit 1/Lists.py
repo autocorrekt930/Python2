@@ -1,6 +1,4 @@
-# Python program to perform various operations on lists
-
-    # 1. Create and access list elements
+ # 1. Create and access list elements
 
 print("1. Creating and accessing list elements:")
 my_list = [10, 20, 30, 40, 50]
@@ -48,3 +46,4 @@ print(f"Original list: {reversed_list}")
 reversed_list.reverse()
 
 print(f"After reverse(): {reversed_list}")
+
